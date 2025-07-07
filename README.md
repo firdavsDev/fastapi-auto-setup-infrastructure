@@ -56,8 +56,8 @@ A production-ready FastAPI application with automated backup, failover, and high
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pet-project.git
-cd pet-project
+git clone git@github.com:firdavsDev/auto-setup-infrastructure.git
+cd auto-setup-infrastructure
 
 # Copy and configure environment
 cp .env.example .env
