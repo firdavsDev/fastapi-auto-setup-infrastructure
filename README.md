@@ -393,8 +393,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in the GitHub repository
-- Email: support@yourdomain.com
-- Documentation: https://yourdomain.com/docs
+- Web: https://davronbekdev.uz
 
 ---
 
